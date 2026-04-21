@@ -1,0 +1,44 @@
+paragraph_id,paragraph,entity_text,entity_type,score
+1,President Biden hosted Chancellor Merz in Washington to deliberate on trade agreements and energy security.,B,Person,0.9994704127311707
+1,President Biden hosted Chancellor Merz in Washington to deliberate on trade agreements and energy security.,##iden,Person,0.9932477474212646
+1,President Biden hosted Chancellor Merz in Washington to deliberate on trade agreements and energy security.,Merz,Person,0.8267325162887573
+1,President Biden hosted Chancellor Merz in Washington to deliberate on trade agreements and energy security.,Washington,Location,0.9996320009231567
+2,Microsoft debuted the newest Surface laptop at a showcase in Seattle. Satya Nadella emphasized the integrated AI hardware during his presentation.,Microsoft,Organization,0.9982166886329651
+2,Microsoft debuted the newest Surface laptop at a showcase in Seattle. Satya Nadella emphasized the integrated AI hardware during his presentation.,Seattle,Location,0.9986439347267151
+2,Microsoft debuted the newest Surface laptop at a showcase in Seattle. Satya Nadella emphasized the integrated AI hardware during his presentation.,Sa,Person,0.999718964099884
+2,Microsoft debuted the newest Surface laptop at a showcase in Seattle. Satya Nadella emphasized the integrated AI hardware during his presentation.,##tya Nadell,Person,0.8832799792289734
+3,The Federal Reserve adjusted borrowing costs yesterday. Jerome Powell cautioned about economic volatility in the coming months.,Federal Reserve,Organization,0.9991145133972168
+3,The Federal Reserve adjusted borrowing costs yesterday. Jerome Powell cautioned about economic volatility in the coming months.,Jerome Powell,Person,0.9997066259384155
+4,"Mark Zuckerberg confirmed that Meta will establish a research hub in Zurich, Switzerland. The initiative received backing from regional officials.",Mark Zuckerberg,Person,0.9991507530212402
+4,"Mark Zuckerberg confirmed that Meta will establish a research hub in Zurich, Switzerland. The initiative received backing from regional officials.",Meta,Organization,0.9966981410980225
+4,"Mark Zuckerberg confirmed that Meta will establish a research hub in Zurich, Switzerland. The initiative received backing from regional officials.",Zurich,Location,0.9991558790206909
+4,"Mark Zuckerberg confirmed that Meta will establish a research hub in Zurich, Switzerland. The initiative received backing from regional officials.",Switzerland,Location,0.9997095465660095
+5,Sony revealed advanced PlayStation peripherals at the Tokyo Game Show in Japan. The reveal generated buzz among industry critics.,Sony,Organization,0.9980727434158325
+5,Sony revealed advanced PlayStation peripherals at the Tokyo Game Show in Japan. The reveal generated buzz among industry critics.,Japan,Location,0.999640703201294
+6,The World Economic Forum in Davos gathered executives from across the globe. Børge Brende started the session with a talk on global trade.,World Economic Forum,Organization,0.998401403427124
+6,The World Economic Forum in Davos gathered executives from across the globe. Børge Brende started the session with a talk on global trade.,Davos,Location,0.9828555583953857
+6,The World Economic Forum in Davos gathered executives from across the globe. Børge Brende started the session with a talk on global trade.,B,Person,0.9994128942489624
+6,The World Economic Forum in Davos gathered executives from across the globe. Børge Brende started the session with a talk on global trade.,##ø,Person,0.9703480005264282
+6,The World Economic Forum in Davos gathered executives from across the globe. Børge Brende started the session with a talk on global trade.,##rge Brende,Person,0.9456166625022888
+7,"Blue Origin sent a crewed capsule into orbit from Van Horn, Texas. Jeff Bezos monitored the flight sequence from mission control.",Blue Origin,Organization,0.9985042810440063
+7,"Blue Origin sent a crewed capsule into orbit from Van Horn, Texas. Jeff Bezos monitored the flight sequence from mission control.",Van Horn,Location,0.9917253851890564
+7,"Blue Origin sent a crewed capsule into orbit from Van Horn, Texas. Jeff Bezos monitored the flight sequence from mission control.",Texas,Location,0.9995593428611755
+7,"Blue Origin sent a crewed capsule into orbit from Van Horn, Texas. Jeff Bezos monitored the flight sequence from mission control.",Jeff Bezos,Person,0.9457074403762817
+8,"Walmart grew its distribution network in Toronto, Canada. The corporation intends to recruit 1,500 additional staff by autumn.",Walmart,Organization,0.9920617938041687
+8,"Walmart grew its distribution network in Toronto, Canada. The corporation intends to recruit 1,500 additional staff by autumn.",Toronto,Location,0.9993711113929749
+8,"Walmart grew its distribution network in Toronto, Canada. The corporation intends to recruit 1,500 additional staff by autumn.",Canada,Location,0.9993190765380859
+9,OpenAI reached a milestone in large language model reasoning. Sam Altman shared the results at a San Francisco symposium.,OpenAI,Organization,0.9883453249931335
+9,OpenAI reached a milestone in large language model reasoning. Sam Altman shared the results at a San Francisco symposium.,Sam Altman,Person,0.9964962601661682
+9,OpenAI reached a milestone in large language model reasoning. Sam Altman shared the results at a San Francisco symposium.,San Francisco,Location,0.9993717670440674
+10,Disney+ signed a deal with Lucasfilm to produce exclusive animated content. Bob Iger described it as a strategic move for the brand.,Disney +,Organization,0.9967947006225586
+10,Disney+ signed a deal with Lucasfilm to produce exclusive animated content. Bob Iger described it as a strategic move for the brand.,Lucasfilm,Organization,0.9989174604415894
+10,Disney+ signed a deal with Lucasfilm to produce exclusive animated content. Bob Iger described it as a strategic move for the brand.,Bob Iger,Person,0.9974777102470398
+11,Engineers at NASA and Caltech developed a prototype for Mars exploration. Dr. Sarah Chen directed the Caltech department.,NASA,Organization,0.9989727735519409
+11,Engineers at NASA and Caltech developed a prototype for Mars exploration. Dr. Sarah Chen directed the Caltech department.,Caltech,Organization,0.9992955923080444
+11,Engineers at NASA and Caltech developed a prototype for Mars exploration. Dr. Sarah Chen directed the Caltech department.,Mars,Location,0.9520330429077148
+11,Engineers at NASA and Caltech developed a prototype for Mars exploration. Dr. Sarah Chen directed the Caltech department.,Sarah Chen,Person,0.9997137188911438
+11,Engineers at NASA and Caltech developed a prototype for Mars exploration. Dr. Sarah Chen directed the Caltech department.,Caltech,Organization,0.9990533590316772
+12,NVIDIA showcased its latest Blackwell chips at a developer conference in San Jose. Jensen Huang explained the architecture to a crowded audience.,NVIDIA,Organization,0.9343879818916321
+12,NVIDIA showcased its latest Blackwell chips at a developer conference in San Jose. Jensen Huang explained the architecture to a crowded audience.,Blackwell,Organization,0.7093188166618347
+12,NVIDIA showcased its latest Blackwell chips at a developer conference in San Jose. Jensen Huang explained the architecture to a crowded audience.,San Jose,Location,0.999351441860199
+12,NVIDIA showcased its latest Blackwell chips at a developer conference in San Jose. Jensen Huang explained the architecture to a crowded audience.,Jensen Huang,Person,0.9996700286865234
