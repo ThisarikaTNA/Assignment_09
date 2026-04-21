@@ -1,0 +1,21 @@
+text,true_label,predicted_label,confidence_score
+The kitchen was messy and had a foul odor.,NEGATIVE,NEGATIVE,0.9996153116226196
+I thoroughly enjoyed this concert. It was spectacular throughout.,POSITIVE,POSITIVE,0.9998871088027954
+The delivery was delayed and the contents were broken.,NEGATIVE,NEGATIVE,0.999679684638977
+This camera captures beautifully and the lens is top-notch.,POSITIVE,POSITIVE,0.9998694658279419
+The software glitches constantly whenever I run a task.,NEGATIVE,NEGATIVE,0.9993477463722229
+The technical assistance person was extremely efficient and polite.,POSITIVE,POSITIVE,0.9995607733726501
+I feel cheated by this purchase. It stopped working instantly.,NEGATIVE,NEGATIVE,0.9997578263282776
+This bakery produces incredible pastries every single day.,POSITIVE,POSITIVE,0.9997561573982239
+The interface is frustrating and difficult to navigate.,NEGATIVE,NEGATIVE,0.9996682405471802
+The speaker conveyed the message effectively and with passion.,POSITIVE,POSITIVE,0.999859094619751
+I am let down by how subpar the materials are.,NEGATIVE,NEGATIVE,0.9997994303703308
+The latest patch made the game more responsive and stable.,POSITIVE,POSITIVE,0.9982389211654663
+The hotel was disgusting and the staff were incredibly rude.,NEGATIVE,NEGATIVE,0.9996317625045776
+"Our trip was peaceful, exciting, and worth every penny.",POSITIVE,POSITIVE,0.9998787641525269
+This was an absolute loss of time and resources.,NEGATIVE,NEGATIVE,0.9997699856758118
+The poem was moving and elegantly composed.,POSITIVE,POSITIVE,0.999881386756897
+I disliked the final chapter of the novel. It felt rushed.,NEGATIVE,NEGATIVE,0.9995691180229187
+I appreciated the lecture and gained valuable insights.,POSITIVE,POSITIVE,0.9998334646224976
+The speakers sound distorted and look very flimsy.,NEGATIVE,NEGATIVE,0.9997640252113342
+I am truly impressed with the durability of this watch.,POSITIVE,POSITIVE,0.9997542500495911
