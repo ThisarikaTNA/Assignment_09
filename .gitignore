@@ -1,0 +1,13 @@
+# MLflow (ignore heavy logs)
+mlruns/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm / IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
