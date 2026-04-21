@@ -1,0 +1,4 @@
+
+Run1 Observations:
+Temperature=0.7, MaxLength=50
+Balanced output, moderate creativity.

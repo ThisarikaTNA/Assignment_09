@@ -1,0 +1,4 @@
+
+Run2 Observations:
+Temperature=1.0, MaxLength=70
+More creative but less controlled outputs.
